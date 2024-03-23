@@ -1,0 +1,16 @@
+@import "../../variables";
+
+.navbar-bg-custom {
+    background-color: $primaryColor;
+}
+
+.navbar-text-custom {
+    font-family: $fontMontserrat;  
+    color: $blackText !important;
+    font-size: $primarySize;
+ }
+
+ .button-container {
+    background-color: $tertiaryColor;
+    border-style: none;
+ }

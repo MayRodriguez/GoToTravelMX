@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Karla&family=Montserrat+Alternates&family=Mouse+Memoirs&display=swap");
+.header-text-custom {
+  font-family: "Karla", sans-serif;
+  color: #9b9987 !important;
+  font-size: 24px;
+}
+
+.vr {
+  color: #dac75e !important;
+}
+
+.header-text-container {
+  width: 70%;
+}
+
+.image-carousel-custom {
+  width: 100%;
+}/*# sourceMappingURL=header.css.map */
